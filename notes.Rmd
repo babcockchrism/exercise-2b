@@ -1,0 +1,11 @@
+---
+title: "notes"
+output: html_document
+date: "2026-01-22"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# yo im on a super duper roll rn
